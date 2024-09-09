@@ -1,0 +1,15 @@
+body{ 
+  width: auto ;
+  height: auto;
+  background-color: black;
+}
+.keybord {
+  height: 200px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}
+br{
+  clear: both;
+}
